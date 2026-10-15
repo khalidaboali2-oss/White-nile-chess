@@ -1,0 +1,92 @@
+{
+  "brand_search": {
+    "animated_monochrome_academy_logo": true
+  },
+  "presence": {
+    "online_friends": true,
+    "online_players_count": true,
+    "games_count": true
+  },
+  "sections": [
+    "Online Play",
+    "Training",
+    "Puzzles",
+    "Tournaments",
+    "Teams",
+    "Rating",
+    "Analysis",
+    "Messages",
+    "Challenges",
+    "Appearance",
+    "My Profile",
+    "Academy",
+    "Cultural & Educational Program",
+    "Fair Play",
+    "Settings"
+  ],
+  "time_controls": {
+    "base_minutes": [
+      1,
+      2,
+      3,
+      5,
+      10,
+      15,
+      20,
+      30
+    ],
+    "increment_seconds": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      10,
+      15
+    ],
+    "custom": true
+  },
+  "profile": {
+    "optional_avatar": true,
+    "country_flag": true,
+    "optional_id": true,
+    "rating_range_filter": 500
+  },
+  "social": {
+    "direct_messages": true,
+    "tournament_chat": true,
+    "team_chat": true,
+    "direct_challenges": true,
+    "challenge_links": true
+  },
+  "appearance": {
+    "board_styles": true,
+    "piece_sets": true,
+    "board_colors": true,
+    "backgrounds": true,
+    "last_move_highlight": true,
+    "legal_move_highlight": true,
+    "threat_squares": true,
+    "check_highlight": true,
+    "animations": true,
+    "sounds": true,
+    "dark_mode": true
+  },
+  "fair_play": {
+    "reports": true,
+    "review_queue": true,
+    "server_authoritative_moves": true
+  },
+  "tournaments": {
+    "swiss": true,
+    "round_robin": true,
+    "knockout": true,
+    "arena": true,
+    "teams": true
+  },
+  "rating": {
+    "rated": true,
+    "unrated": true,
+    "custom_pool_rating": true
+  }
+}
